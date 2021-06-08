@@ -15,7 +15,8 @@ LinkedIn: https://www.linkedin.com/in/anamol-acharya/
 
 email:    anamol222@gmail.com
 
-Did I forget to mention that I am competitive in Ping-Pong and have some great recipes for Potlog party!
+I love to play soccer in my spare time. Did I forget to mention that I am competitive in Ping-Pong and have some great recipes for Potlog party!
+
 Thank you very much.
 
 
