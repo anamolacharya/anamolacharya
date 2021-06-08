@@ -10,7 +10,9 @@ I am enthusiastically open to learn new programming languages, frameworks, and l
 
 I am currently working on projects based on MERN stack learning new things simultaneouly. Based on my experience in woorking with REST API, I am currently working in a project that will help the user to find the food in a specific location and order it online. I am also working on my personal project where students/professionals can practice the certification tests. I would be super happy if you have any exciting projects that I can be a part of. 
 The best way to reach out me would be:
+
 LinkedIn: https://www.linkedin.com/in/anamol-acharya/
+
 email:    anamol222@gmail.com
 
 Did I forget to mention that I am competitive in Ping-Pong and have some great recipes for Potlog party!
