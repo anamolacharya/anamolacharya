@@ -1,3 +1,5 @@
+![Life](https://user-images.githubusercontent.com/32384473/121115871-47205a80-c7db-11eb-9055-6128fe3da309.png)
+
 Hello GitHub Community 👋,
 
 I am an aspiring Full Stack Developer looking for full time opportunities.
