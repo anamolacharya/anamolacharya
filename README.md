@@ -2,7 +2,7 @@
 
 Hello GitHub Community 👋,
 
-I am Anamol Acharya an aspiring Full Stack Developer looking for full time opportunities.
+I am Anamol Acharya, a Full Stack Developer looking for full time opportunities.
 
 I have hands on experience on Software Developing using  Javascript, Node.js, ReactJS, MongoDB, and Java. I have also experience on creating/implementing RESTful APIs and host it in AWS Lambda. I find myself working in problem-solving, responsive design principles, Agile software developing, and Model View Controller (MVC) methods of organizing code.
 
