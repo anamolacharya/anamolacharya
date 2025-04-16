@@ -6,8 +6,6 @@ I am Anamol Acharya, dedicated Full Stack Software Developer, specializing in bu
 
 The best way to reach out me would be:
 
-LinkedIn: https://www.linkedin.com/in/anamol-acharya/
-
 email:    anamol222@gmail.com
 
 Thank you very much.
