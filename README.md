@@ -2,7 +2,7 @@
 
 Hello GitHub Community 👋,
 
-I am Anamol Acharya, a dedicated full-stack software developer specializing in building and maintaining AI-driven customer service solutions. Adept at utilizing a diverse technical stack to develop enterprise full-stack web applications, automated workflows/chatbots, enhance client relationships, and optimize customer experiences. Proven track record of successful client onboarding, system migration, and collaboration with cross-functional teams.
+I am Anamol Acharya, a dedicated Full Stack Software Engineer and Solution Architect focused on building secure, scalable platforms for fintech and enterprise environments, with 6+ years of experience across IAM, GraphQL, and cloud-native architectures. Proven ability to modernize systems, integrate complex ecosystems, and deliver audit-ready, high-impact solutions.
 
 The best way to reach out to me would be:
 
