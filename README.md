@@ -6,7 +6,7 @@ I am Anamol Acharya, a dedicated full-stack software developer specializing in b
 
 The best way to reach out to me would be:
 
-email:    anamol10acharya@gmail.com || anamol222@gmail.com
+email:    anamol10acharya@gmail.com | anamol222@gmail.com
 
 Thank you very much.
 
